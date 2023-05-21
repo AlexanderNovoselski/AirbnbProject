@@ -1,0 +1,12 @@
+C:\Users\alex_\source\repos\Airbnb.Apartment.Three\Airbnb.Apartment.Three.BusinessLayer\bin\Debug\net6.0\Airbnb.Apartment.Three.BusinessLayer.deps.json
+C:\Users\alex_\source\repos\Airbnb.Apartment.Three\Airbnb.Apartment.Three.BusinessLayer\bin\Debug\net6.0\Airbnb.Apartment.Three.BusinessLayer.dll
+C:\Users\alex_\source\repos\Airbnb.Apartment.Three\Airbnb.Apartment.Three.BusinessLayer\bin\Debug\net6.0\Airbnb.Apartment.Three.BusinessLayer.pdb
+C:\Users\alex_\source\repos\Airbnb.Apartment.Three\Airbnb.Apartment.Three.BusinessLayer\obj\Debug\net6.0\Airbnb.Apartment.Three.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\alex_\source\repos\Airbnb.Apartment.Three\Airbnb.Apartment.Three.BusinessLayer\obj\Debug\net6.0\Airbnb.Apartment.Three.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\source\repos\Airbnb.Apartment.Three\Airbnb.Apartment.Three.BusinessLayer\obj\Debug\net6.0\Airbnb.Apartment.Three.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\alex_\source\repos\Airbnb.Apartment.Three\Airbnb.Apartment.Three.BusinessLayer\obj\Debug\net6.0\Airbnb.Apartment.Three.BusinessLayer.AssemblyInfo.cs
+C:\Users\alex_\source\repos\Airbnb.Apartment.Three\Airbnb.Apartment.Three.BusinessLayer\obj\Debug\net6.0\Airbnb.Apartment.Three.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\alex_\source\repos\Airbnb.Apartment.Three\Airbnb.Apartment.Three.BusinessLayer\obj\Debug\net6.0\Airbnb.Apartment.Three.BusinessLayer.dll
+C:\Users\alex_\source\repos\Airbnb.Apartment.Three\Airbnb.Apartment.Three.BusinessLayer\obj\Debug\net6.0\refint\Airbnb.Apartment.Three.BusinessLayer.dll
+C:\Users\alex_\source\repos\Airbnb.Apartment.Three\Airbnb.Apartment.Three.BusinessLayer\obj\Debug\net6.0\Airbnb.Apartment.Three.BusinessLayer.pdb
+C:\Users\alex_\source\repos\Airbnb.Apartment.Three\Airbnb.Apartment.Three.BusinessLayer\obj\Debug\net6.0\ref\Airbnb.Apartment.Three.BusinessLayer.dll
